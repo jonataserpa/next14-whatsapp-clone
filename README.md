@@ -13,8 +13,6 @@
 
 ## Deploy Your Own
 
-You can deploy this app by setting up the following services and adding their environment variables:
-
 1. Run `npm install` to install dependencies.
 2. Run `npm run dev`. It will prompt you to log into [Convex](https://convex.dev) and create a project.
 3. It will then ask you to supply the `CLERK_ISSUER_URL`. To do this:
